@@ -10,3 +10,6 @@ This folder contains my Week 3 work:
 - Build confidence writing SQL queries from scratch
 - Understand relational data
 - Prepare for data anylst interviews
+
+## Contents
+- week3_sql.ipynb
