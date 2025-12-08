@@ -1,15 +1,15 @@
-# Project 1 - Stroke Prediction 
+# Exploring Stroke Risk Factors in Stroke Predictor Dataset
 
-## 1. Introduction & Goals
+## Overview:
 
-## 2. Data Overview
+## Dataset:
 
-## 3. EDA (Exploratory Data Analysis)
+## Questions:
 
-## 4. Data Cleaning Choices
+## Methods:
 
-## 5. Visualizations
+## Key Findings
 
-## 6. Key Insights
+# Limitations
 
-## 7. Limitations & Next Steps
+# Next Steps
