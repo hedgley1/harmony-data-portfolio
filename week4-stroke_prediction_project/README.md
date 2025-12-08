@@ -8,8 +8,8 @@
 
 ## Methods:
 
-## Key Findings
+## Key Findings:
 
-# Limitations
+## Limitations:
 
-# Next Steps
+## Next Steps:
