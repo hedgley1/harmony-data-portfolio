@@ -8,7 +8,7 @@ This week focuses on building on existing foundational statistical intuition and
 - Create a correlation heatmap
 - Practice interpreting statistical results in a real-world context.
 
-# Contents
+## Contents
 - week5_stats_corr.ipynb
 - Notes from StatQuest video lessons
 - Correlation heatmap analysis
