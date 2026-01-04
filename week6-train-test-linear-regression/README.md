@@ -13,6 +13,3 @@ The goal is to understand the ML workflow by taining a simple linear regression 
 - week6-train-test-linear-reg.ipynb
 - Dataset: Energy Efficiency Dataset
 
-## Results
-
-## Reflection
